@@ -1,0 +1,8 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.bin/
+.idea/
+/.hg/*
+*/.hg/*
+.hgignore
